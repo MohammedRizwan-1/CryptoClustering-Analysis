@@ -23,6 +23,7 @@ Clusters were created using PCA and total explained variance was calculated to b
 ![Alt text](Images/Elbow_Curve_PCA.png)
 
 A dataframe was created using the PCA data.
+
 ![Alt text](Images/DF_PCA_DATA.png)
 
 And finally, the clusters were plotted.
